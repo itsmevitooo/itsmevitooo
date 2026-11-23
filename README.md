@@ -44,7 +44,7 @@ Jangan ragu untuk menyapa atau terhubung melalui akun media sosial saya berikut:
     <img src="https://shields.io" alt="Instagram" />
   </a>
 
-    <!-- Facebook -->
+    <!-- Facebook --!>
   <a href="https://www.facebook.com/vitoputraperdhana.vitoputraperdhana/" target="_blank">
     <img src="https://shields.io" alt="Facebook" />
   </a>
